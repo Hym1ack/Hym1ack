@@ -31,15 +31,15 @@ Frontend :
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 18 June 2024
+From: 28 May 2023 - To: 19 June 2024
 
-Total Time: 633 hrs 38 mins
+Total Time: 637 hrs 49 mins
 
-TypeScript            484 hrs 13 mins >>>>>>>>>>>>>>>>>>>------   76.42 %
-CSS                   40 hrs 10 mins  >>-----------------------   06.34 %
-Vue.js                34 hrs 51 mins  >------------------------   05.50 %
-JavaScript            27 hrs 50 mins  >------------------------   04.39 %
-HTML                  14 hrs 44 mins  >------------------------   02.33 %
+TypeScript            488 hrs 24 mins >>>>>>>>>>>>>>>>>>>------   76.57 %
+CSS                   40 hrs 10 mins  >>-----------------------   06.30 %
+Vue.js                34 hrs 51 mins  >------------------------   05.46 %
+JavaScript            27 hrs 51 mins  >------------------------   04.37 %
+HTML                  14 hrs 44 mins  >------------------------   02.31 %
 ```
 
 <!--END_SECTION:waka-->
